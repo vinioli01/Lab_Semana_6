@@ -1,0 +1,90 @@
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/appsettings.Development.json
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/appsettings.json
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/ProjetoMySQL.staticwebassets.runtime.json
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/ProjetoMySQL
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/ProjetoMySQL.deps.json
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/ProjetoMySQL.runtimeconfig.json
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/ProjetoMySQL.dll
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/ProjetoMySQL.pdb
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/Humanizer.dll
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/MySqlConnector.dll
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/bin/Debug/net6.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ProjetoMySQL.csproj.AssemblyReference.cache
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ProjetoMySQL.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ProjetoMySQL.AssemblyInfoInputs.cache
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ProjetoMySQL.AssemblyInfo.cs
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ProjetoMySQL.csproj.CoreCompileInputs.cache
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ProjetoMySQL.MvcApplicationPartsAssemblyInfo.cache
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/staticwebassets.build.json
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/staticwebassets.development.json
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/scopedcss/bundle/ProjetoMySQL.styles.css
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ProjetoMySQL.csproj.CopyComplete
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ProjetoMySQL.dll
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/refint/ProjetoMySQL.dll
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ProjetoMySQL.pdb
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ProjetoMySQL.genruntimeconfig.cache
+/home/joaopaulofcc/Aula2109/ProjetoMySQL/obj/Debug/net6.0/ref/ProjetoMySQL.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\appsettings.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.staticwebassets.runtime.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.exe
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.deps.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.runtimeconfig.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\ProjetoMySQL.pdb
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.csproj.AssemblyReference.cache
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.AssemblyInfoInputs.cache
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.AssemblyInfo.cs
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.csproj.CoreCompileInputs.cache
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\scopedcss\bundle\ProjetoMySQL.styles.css
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.csproj.CopyComplete
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\refint\ProjetoMySQL.dll
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.pdb
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ProjetoMySQL.genruntimeconfig.cache
+C:\Users\Neemias\Documents\Faculdade\Algorítimo e Programação\Analise e Projeto de Software\Semana 6\ProjetoMySQL\obj\Debug\net6.0\ref\ProjetoMySQL.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\ProjetoMySQL.staticwebassets.runtime.json
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\ProjetoMySQL.exe
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\ProjetoMySQL.deps.json
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\ProjetoMySQL.runtimeconfig.json
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\ProjetoMySQL.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\ProjetoMySQL.pdb
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ProjetoMySQL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ProjetoMySQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ProjetoMySQL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ProjetoMySQL.AssemblyInfo.cs
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ProjetoMySQL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ProjetoMySQL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\scopedcss\bundle\ProjetoMySQL.styles.css
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ProjetoMySQL.csproj.CopyComplete
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ProjetoMySQL.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\refint\ProjetoMySQL.dll
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ProjetoMySQL.pdb
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ProjetoMySQL.genruntimeconfig.cache
+C:\Users\User\Desktop\Faculdade\APS\semana6\semana6_APS-master\obj\Debug\net6.0\ref\ProjetoMySQL.dll
